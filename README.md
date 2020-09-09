@@ -19,12 +19,11 @@
 
 # ***Work experience***
 - Company ___WORLD MONEY LTD.___
-- Position ___Frontend developer (Web application)___
-- Employment period ___Apr 2020 - Present___
+- Position ___Backend developer (Web application)___
+- Employment period ___May 2020 - Present___
 - Job function ___Sofyware Development.___
 - Job industry ___Financial Services.___
 - Roles and responsibilities (optional)
-    - ***UX / UI design***
-    - ***RESTFUL API*** send GET, POST, PUT, DELETE
+    - ***สร้าง RESTFUL API ให้กับ Frontend ***
     - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
