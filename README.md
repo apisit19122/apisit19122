@@ -32,16 +32,16 @@
 - English(Fair)
 
 # ***Language and Freamwork***
-    - **Language**
-        - JavaScript
-        - Python
-        - HTML
-        - CSS
-        - PHP
-    - **Freamwork**
-        - Node.js (Express)
-        - Django
-        - ReactJS
-        - Bootstrap
+- **Language**
+    - JavaScript
+    - Python
+    - HTML
+    - CSS
+    - PHP
+- **Freamwork**
+    - Node.js (Express)
+    - Django
+    - ReactJS
+    - Bootstrap
 
 
