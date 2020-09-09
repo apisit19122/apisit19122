@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**apisit19122/apisit19122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***Personal details***
+    - First name ___RATTAMNOON___
+    - Last name ___KIRATIPISUT___
+    - Nickname  ___UN___
+    - Age __23__ year old
+    - Contact number (optional)
+        - ___Thailand +66 95 894 0136___
+    - Gender (optional) 
+        - ___Male___
+    - Date of birth (optional)
+        - ___17 Nov 1996___
+    - Email 
+        - ___rattamnoon.kir@gmail.com___
+    - Social
+        - [facebook](https://web.facebook.com/RATTAMNOON)
