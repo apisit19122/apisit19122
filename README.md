@@ -11,9 +11,9 @@
 - Social
     - [facebook](https://web.facebook.com/apisit.seepar/)
         
-# ***Education*** 👨‍🎓
-- [x] Institute ___Naresuan University.___
+# 👨‍🎓***Education*** 
+- [x] Institute ___Mahasarakham University.___
 - [x] Education level ___Degree.___
-- [x] Major ___Science Program in Physics.___
-- [x] Graduation Year ___2018.___
+- [x] Major ___Business Computer.___
+- [x] Graduation Year ___2019.___
 
