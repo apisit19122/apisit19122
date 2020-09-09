@@ -50,7 +50,7 @@
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
 - โปรเจ็คจบ Smart parking(IOT)
-- Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract***
+- Project ***WORLD MONEY***
 
 ### Node.js
 ```JavaScript
