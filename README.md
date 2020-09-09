@@ -29,6 +29,5 @@
     
 # ***Languages***
 - Thai 
-- English 
-    - ___Fair___ 
+- English(Fair)
 
