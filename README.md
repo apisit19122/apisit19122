@@ -74,7 +74,6 @@ exports.signup = (req, res) => {
                     user.setRoles(roles).then(() => {
                         res.send({ message: "User was registered successfully!" });
                         console.info(`${req.method} ${req.originalUrl}`);
-                        console.info('ทดสอบส่งอีเมล์');
                     });
                 });
             } else {
@@ -82,10 +81,10 @@ exports.signup = (req, res) => {
                 user.setRoles([1]).then(() => {
                     Token.create({
                             userId: user.id,
-                            token: cryptoRandomString({ length: 16, type: 'hex' }) // สุ่มสร้าง Token
+                            token: cryptoRandomString({ length: 16, type: 'hex' });
                         })
                         .then(token => {
-                            sendVerificationEmail(user, token, req, res); // ส่งเมล์ พร้อม params
+                            sendVerificationEmail(user, token, req, res);
                         });
                     res.send({ message: "User was registered successfully!" });
                 });
@@ -138,7 +137,7 @@ exports.signin = (req, res) => {
                     accessToken: token
                 });
                 sendLoginEmail(user, req, res)
-                console.info(`${req.method} ${req.originalUrl} ${user.email}`)
+                console.info(`${req.method} ${req.originalUrl} ${user.email}`);
             });
         })
         .catch(err => {
