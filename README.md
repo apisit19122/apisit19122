@@ -11,7 +11,7 @@
 - Social
     - [facebook](https://web.facebook.com/apisit.seepar/)
         
-# 👨‍🎓***Education*** 
+# ***Education*** 
 - Institute ___Mahasarakham University.___
 - Education level ___Degree.___
 - Major ___Business Computer.___
