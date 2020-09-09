@@ -24,6 +24,6 @@
 - Job function ___Sofyware Development.___
 - Job industry ___Financial Services.___
 - Roles and responsibilities
-    - *** Create RESTFUL API ***
+    - ***Create RESTFUL API***
     - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
