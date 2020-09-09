@@ -2,7 +2,7 @@
 - Firstname:  ___Apisit___ Lastname: ___Sripar___ Nickname:  ___OaT___ Age: __22__ year old
 - Contact number
     - ___0909214023___
-- Gender (optional) 
+- Gender
     - ___Male___
 - Date of birth
     - ___19 Dec. 1997___
