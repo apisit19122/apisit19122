@@ -31,7 +31,7 @@
 - Thai 
 - English(Fair)
 
-- ***Language and Freamwork***
+# ***Language and Freamwork***
     - **Language**
         - JavaScript
         - Python
