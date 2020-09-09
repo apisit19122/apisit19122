@@ -43,5 +43,13 @@
     - Django
     - ReactJS
     - Bootstrap
+- **Database**
+    - Mysql
+    - Oracle
+    
+# ***Project, Works, Honors And other experiences***
+- แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
+- โปรเจ็คจบ Smart parking(IOT)
+
 
 
