@@ -5,7 +5,7 @@
 - Gender
     - ___Male___
 - Date of birth
-    - ___19 Dec. 1997___
+    - ___18 Dec. 1997___
 - Email 
     - ___oat19122@gmail.com___
 - Social
