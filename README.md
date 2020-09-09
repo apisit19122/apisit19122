@@ -23,7 +23,7 @@
 - Employment period ___May 2020 - Present___
 - Job function ___Sofyware Development.___
 - Job industry ___Financial Services.___
-- Roles and responsibilities (optional)
-    - ***สร้าง RESTFUL API ให้กับ Frontend ***
+- Roles and responsibilities
+    - *** Create RESTFUL API ***
     - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
