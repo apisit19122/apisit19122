@@ -30,8 +30,5 @@
 # ***Languages***
 - Thai 
 - English 
-    - [ ] Excellent   
-    - [ ] Good        
-    - [x] Fair
-    - [ ] Communicable  
+    - ___Fair___ 
 
