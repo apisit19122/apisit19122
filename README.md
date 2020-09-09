@@ -17,7 +17,7 @@
 - Major ___Business Computer.___
 - Graduation Year ___2019.___
 
-- ***Work experience***
+# ***Work experience***
 - Company ___WORLD MONEY LTD.___
 - Position ___Frontend developer (Web application)___
 - Employment period ___Apr 2020 - Present___
