@@ -12,8 +12,19 @@
     - [facebook](https://web.facebook.com/apisit.seepar/)
         
 # 👨‍🎓***Education*** 
-- [x] Institute ___Mahasarakham University.___
-- [x] Education level ___Degree.___
-- [x] Major ___Business Computer.___
-- [x] Graduation Year ___2019.___
+- Institute ___Mahasarakham University.___
+- Education level ___Degree.___
+- Major ___Business Computer.___
+- Graduation Year ___2019.___
+
+- ***Work experience***
+- Company ___WORLD MONEY LTD.___
+- Position ___Frontend developer (Web application)___
+- Employment period ___Apr 2020 - Present___
+- Job function ___Sofyware Development.___
+- Job industry ___Financial Services.___
+- Roles and responsibilities (optional)
+    - ***UX / UI design***
+    - ***RESTFUL API*** send GET, POST, PUT, DELETE
+    - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
