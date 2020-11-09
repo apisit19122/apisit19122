@@ -41,11 +41,14 @@
 - **Freamwork**
     - Node.js (Express)
     - Django
-    - ReactJS
+    - React.js
+    - ant design
     - Bootstrap
 - **Database**
     - Mysql
     - Oracle
+    - MongoDB
+- **Docker & K8**
     
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
