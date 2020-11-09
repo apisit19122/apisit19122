@@ -42,7 +42,8 @@
     - Node.js (Express)
     - Django
     - React.js
-    - ant design
+    - Graphql
+    - Ant design
     - Bootstrap
 - **Database**
     - Mysql
