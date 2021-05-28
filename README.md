@@ -34,6 +34,7 @@
 # ***Language and Freamwork***
 - **Language**
     - JavaScript
+    - Typescript
     - Python
     - HTML
     - CSS
@@ -49,7 +50,10 @@
     - Mysql
     - Oracle
     - MongoDB
-- **Docker & K8**
+- **CI/CD**
+    - Docker
+    - k8
+    - 
     
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
