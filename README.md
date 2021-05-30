@@ -31,7 +31,7 @@
 - Thai 
 - English(Fair)
 
-# ***Language and Freamwork***
+# ***Language & Freamwork & Library***
 - **Language**
     - JavaScript
     - Typescript
@@ -39,7 +39,7 @@
     - HTML
     - CSS
     - PHP
-- **Freamwork**
+- **Freamwork & Library**
     - Node.js (Express)
     - Django
     - React.js
@@ -53,7 +53,6 @@
 - **CI/CD**
     - Docker
     - k8
-    - 
     
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
