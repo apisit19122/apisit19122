@@ -1,5 +1,5 @@
 # ***Personal details***
-- Firstname:  ___Apisit___ Lastname: ___Sripar___ Nickname:  ___OaT___ Age: __22__ year old
+- Firstname:  ___Apisit___ Lastname: ___Sripar___ Nickname:  ___OaT___ Age: __24__ year old
 - Contact number
     - ___090-921-4023___
 - Gender
@@ -31,18 +31,22 @@
 - Thai 
 - English(Fair)
 
-# ***Language & Freamwork & Library***
+# ***Language & Freamwork & Library & Tool***
+- **Tool**
+    - git
 - **Language**
-    - JavaScript
-    - Typescript
-    - Python
-    - HTML
-    - CSS
-    - PHP
-- **Freamwork & Library**
+    - .js (JavaScript)
+    - .ts (Typescript)
+    - .py (Python)
+    - .html (HTML)
+    - .css (CSS)
+    - .php (PHP)
+    - .Lua (LUA)
+- **Freamwork & Library & UI**
     - Node.js (Express)
     - Django
-    - React.js
+    - React JS
+    - Next JS
     - Graphql
     - Ant design
     - Bootstrap
@@ -58,6 +62,7 @@
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
 - โปรเจ็คจบ Smart parking(IOT)
 - Project ***WORLD MONEY***
+- Matrix
 
 
 
