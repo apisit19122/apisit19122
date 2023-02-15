@@ -42,27 +42,30 @@
     - .css (CSS)
     - .php (PHP)
     - .Lua (LUA)
-- **Freamwork & Library & UI**
-    - Node.js (Express)
+- **Font**
     - Django
-    - React JS
-    - Next JS
-    - Graphql
-    - Ant design
-    - Bootstrap
+    - ReactJS
+    - NextJS
+    - React native
+    - flutter
+- **Back**
+    - Node.js (Express) (Graphql, restful)
+    - NestJS (Graphql, restful)
 - **Database**
     - Mysql
     - Oracle
     - MongoDB
 - **CI/CD**
     - Docker
-    - k8
+    - kube
+    - AWS
     
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
 - โปรเจ็คจบ Smart parking(IOT)
 - Project ***WORLD MONEY***
 - Matrix
+- MRP WEB (game)
 
 
 
