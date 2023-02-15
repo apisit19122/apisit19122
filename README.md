@@ -39,6 +39,7 @@
     - .ts (Typescript)
     - .py (Python)
     - .html (HTML)
+    - .dart  (Starting to study)
     - .css (CSS)
     - .php (PHP)
     - .Lua (LUA)
@@ -47,7 +48,7 @@
     - ReactJS
     - NextJS
     - React native
-    - flutter
+    - flutter (Starting to study)
 - **Back**
     - Node.js (Express) (Graphql, restful)
     - NestJS (Graphql, restful)
@@ -58,7 +59,7 @@
 - **CI/CD**
     - Docker
     - kube
-    - AWS
+    - AWS (Starting to study)
     
 # ***Project, Works, Honors And other experiences***
 - แข่งขัน TOT Hackathon 2019 (รองชนะเลิศ)
