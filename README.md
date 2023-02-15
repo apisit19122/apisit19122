@@ -31,7 +31,7 @@
 - Thai 
 - English(Fair)
 
-# ***Language & Freamwork & Library & Tool***
+# ***Skills***
 - **Tool**
     - git
 - **Language**
