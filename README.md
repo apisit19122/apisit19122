@@ -8,8 +8,6 @@
     - ___18 Dec. 1997___
 - Email 
     - ___oat19122@gmail.com___
-- Social
-    - [facebook](https://web.facebook.com/apisit.seepar/)
         
 # ***Education*** 
 - Institute ___Mahasarakham University.___
