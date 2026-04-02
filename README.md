@@ -24,10 +24,6 @@
 - Roles and responsibilities
     - ***Create RESTFUL API***
     - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
-    
-# ***Languages***
-- Thai 
-- English(Fair)
 
 # ***Skills***
 - **Tool**
